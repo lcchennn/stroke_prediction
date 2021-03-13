@@ -47,8 +47,8 @@ Accuracy score comparison.
 ## References
 1. NHANES Datasets from 2013-2014:
 <br>https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
-2. A data-driven approach to predicting diabetes and cardiovascular disease with machine learning
+2. A data-driven approach to predicting diabetes and cardiovascular disease with machine learning:
 <br>https://pubmed.ncbi.nlm.nih.gov/31694707/
-3. Codebook
+3. Codebook:
 <br>https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Demographics&CycleBeginYear=2013
 
