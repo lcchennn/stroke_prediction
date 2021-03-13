@@ -1,9 +1,9 @@
 # Stroke Prediction Using Machine Learning Approaches
 
 ### Check out the code
-#### Stroke Prediction Using Machine Learning:
+- Stroke Prediction Using Machine Learning:
 https://www.kaggle.com/lcchennn/stroke-prediction-using-machine-learning
-#### HTML Parsing with Beautiful Soup - NHANES Data Codebook with SAS label:
+- HTML Parsing with Beautiful Soup - NHANES Data Codebook with SAS label:
 https://www.kaggle.com/lcchennn/html-parsing-nhanes-data-codebook-with-sas-label
 
 ## I. Introduction
@@ -45,10 +45,7 @@ Accuracy score comparison.
 3. ROC/AUC comparison
 
 ## References
-1. NHANES Datasets from 2013-2014
-https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
-2. A data-driven approach to predicting diabetes and cardiovascular disease with machine learning
-https://pubmed.ncbi.nlm.nih.gov/31694707/
-3. Codebook
-https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Demographics&CycleBeginYear=2013
+1. NHANES Datasets from 2013-2014: https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
+2. A data-driven approach to predicting diabetes and cardiovascular disease with machine learning: https://pubmed.ncbi.nlm.nih.gov/31694707/
+3. Codebook: https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Demographics&CycleBeginYear=2013
 
