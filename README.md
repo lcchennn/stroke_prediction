@@ -2,9 +2,9 @@
 
 ### Check out the code
 - Stroke Prediction Using Machine Learning:
-https://www.kaggle.com/lcchennn/stroke-prediction-using-machine-learning
+<br> https://www.kaggle.com/lcchennn/stroke-prediction-using-machine-learning
 - HTML Parsing with Beautiful Soup - NHANES Data Codebook with SAS label:
-https://www.kaggle.com/lcchennn/html-parsing-nhanes-data-codebook-with-sas-label
+<br> https://www.kaggle.com/lcchennn/html-parsing-nhanes-data-codebook-with-sas-label
 
 ## I. Introduction
 Stroke is the fifth cause of death in the United States, according to the Heart Disease and Stroke Statistics 2020 report. Those who suffer from stroke, if luckily survived, may also suffer from expensive medical bills and even disability. Foreseeing the underlying risk factors of stroke is highly valuable to stroke screening and prevention. In this project, the National Health and Nutrition Examination Survey (NHANES) data from the National Center for Health Statistics (NCHS) is used to develop machine learning models. The NHANES dataset holds an abundance of variables, ranging from demographics, medical history, physical examinations, biochemistry to dietary and lifestyle questionnaires. Known features contributing to stroke, such as blood pressure, serum cholesterol level, alcohol consumption, weight, etc., and additional features will be selected for correlation evaluation and machine learning model development
@@ -45,7 +45,10 @@ Accuracy score comparison.
 3. ROC/AUC comparison
 
 ## References
-1. NHANES Datasets from 2013-2014: https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
-2. A data-driven approach to predicting diabetes and cardiovascular disease with machine learning: https://pubmed.ncbi.nlm.nih.gov/31694707/
-3. Codebook: https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Demographics&CycleBeginYear=2013
+1. NHANES Datasets from 2013-2014:
+<br>https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
+2. A data-driven approach to predicting diabetes and cardiovascular disease with machine learning
+<br>https://pubmed.ncbi.nlm.nih.gov/31694707/
+3. Codebook
+<br>https://wwwn.cdc.gov/nchs/nhanes/Search/DataPage.aspx?Component=Demographics&CycleBeginYear=2013
 
