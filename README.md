@@ -21,10 +21,10 @@ Stroke is the fifth cause of death in the United States, according to the Heart 
 4. Using XGBoost for feature selection after oversampling.
 
 ### Class imbalance
-<br>![image](https://user-images.githubusercontent.com/52438350/111051627-5de82880-8409-11eb-8005-b84459673291.png)
+<br>![image](https://user-images.githubusercontent.com/52438350/111051693-fd0d2000-8409-11eb-9400-b0ec04a2c94b.png)
 
 ### 24 top features selected
-<br>![image](https://user-images.githubusercontent.com/52438350/111051229-6723c600-8406-11eb-810c-d9eaae6d4e52.png)
+<br>![image](https://user-images.githubusercontent.com/52438350/111051692-f1b9f480-8409-11eb-9d7a-9b42bd341750.png)
 <br>![image](https://user-images.githubusercontent.com/52438350/111051618-41e48700-8409-11eb-8fd4-d60754fc8c8f.png)
 
 ### Feature correlation
