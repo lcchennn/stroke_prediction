@@ -37,7 +37,7 @@ Stroke is the fifth cause of death in the United States, according to the Heart 
 
 ## V. Model Comparison
 Accuracy score comparison.
-![image](https://user-images.githubusercontent.com/52438350/111051245-90445680-8406-11eb-898f-775861bb53b5.png)
+<br>![image](https://user-images.githubusercontent.com/52438350/111051245-90445680-8406-11eb-898f-775861bb53b5.png)
 
 ## VI. Future Work
 1. Model optimization/hyperparameter tuning
