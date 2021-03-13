@@ -1,2 +1,1 @@
-# stroke_prediction
-Stroke Prediction Using Machine Learning
+# Stroke Prediction Using Machine Learning Approaches
