@@ -17,7 +17,7 @@ Stroke is the fifth cause of death in the United States, according to the Heart 
 ## III. Feature Selection
 1. Train/Test split
 2. Train/predict with XGBoost before data preprocessing, result showed false high accuracy where recall for the minority class is very low.
-3. Oversampling with imblearn.SMOTE.
+3. Oversampling with imblearn.SMOTE (Synthetic Minority Oversampling TEchnique).
 4. Using XGBoost for feature selection after oversampling.
 
 ### Class imbalance
