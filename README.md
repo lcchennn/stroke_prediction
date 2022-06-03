@@ -41,7 +41,7 @@ Accuracy score comparison.
 
 ## VI. Future Work
 1. Model optimization/hyperparameter tuning
-2. Ensamble
+2. Ensemble
 3. ROC/AUC comparison
 
 ## References
